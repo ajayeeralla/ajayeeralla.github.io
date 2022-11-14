@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Senior Formal Verification Engineer at [AMD Inc.](https://www.amd.com/en).
+I am a Senior Formal Verification Engineer at [AMD Inc](https://www.amd.com/en). Previously, I worked as a Software Research Engineer for [Galois Inc](https://galois.com/).
 
 ## Research Interests
 <!--
