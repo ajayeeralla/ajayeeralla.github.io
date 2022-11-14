@@ -53,7 +53,7 @@ I am working as a Senior Formal Verification Engineer at [AMD Inc](https://www.a
   Gergei Bana, Rohit Chadah, **Ajay Eeralla**, Mitsuhiro Okada
   <br>
   ACM Transactions in Computational Logic. **ACM TOCL 2019**
-  <br>
+  
 ### Peer-reviewed Conference Proceedings
 - **Rule-Based Unification in Combined Theories and the Finite Variant Property**
   <br>
