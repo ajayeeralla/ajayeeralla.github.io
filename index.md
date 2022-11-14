@@ -8,7 +8,7 @@ I am working as a Senior Formal Verification Engineer at [AMD Inc](https://www.a
 
 ## Research Interests
 - **Software:** Formal verification, computer security, cryptography, SMT/SAT solvers, theorem proving, software engineering, and cybersecurity, and unification problems modulo equational theories
-- **Hardware:** Formal verification of RTL designs using EDA vendor tools such as [VC-Formal](https://www.synopsys.com/verification/static-and-formal-verification/vc-formal.html) and [JasperGold(https://www.cadence.com/en_US/home/tools/system-design-and-verification/formal-and-static-verification/jasper-gold-verification-platform.html).
+- **Hardware:** Formal verification of RTL designs using EDA vendor tools such as [VC-Formal](https://www.synopsys.com/verification/static-and-formal-verification/vc-formal.html) and [JasperGold](https://www.cadence.com/en_US/home/tools/system-design-and-verification/formal-and-static-verification/jasper-gold-verification-platform.html).
 <!--
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
