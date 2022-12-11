@@ -21,8 +21,10 @@ I am working as a Senior Formal Verification Engineer at [AMD Inc](https://www.a
 - **MSc Mathematics**, [Osmania University](https://www.osmania.ac.in/), India
 - **BSc Maths, Electronics, Comp. Sci.**, [Kakatiya University](https://www.kakatiya.ac.in/), India
 
-<!--
+
 ## News
+- **[Dec. 2022]** Serving to be a member of Front-end Design Engineering Track Committee for 60th DAC conference 2023.
+<!--
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
