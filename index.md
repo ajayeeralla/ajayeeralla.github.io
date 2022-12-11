@@ -23,7 +23,7 @@ I am working as a Senior Formal Verification Engineer at [AMD Inc](https://www.a
 
 
 ## News
-- **[Dec. 2022]** Serving to be a member of Front-end Design Engineering Track Committee for 60th DAC conference 2023.
+- **[Jan. 2023]** Serving as a member of Front-end Design Engineering Track Committee for 60th DAC conference 2023.
 <!--
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
