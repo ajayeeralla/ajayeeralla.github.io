@@ -8,12 +8,12 @@ I am working as a Senior Formal Verification Engineer at [AMD Inc](https://www.a
 
 ## Research Interests
 - **Software:** Formal verification, computer security, cryptography, SMT/SAT solvers, theorem proving, software engineering, and cybersecurity, and designing algorithms to solve unification problems
-- **Hardware:** Formal verification of RTL designs using EDA vendor tools such as [VC-Formal](https://www.synopsys.com/verification/static-and-formal-verification/vc-formal.html) and [JasperGold](https://www.cadence.com/en_US/home/tools/system-design-and-verification/formal-and-static-verification/jasper-gold-verification-platform.html).
+- **Hardware:** Formal verification of RTL designs using EDA vendor tools such as [VC-Formal](https://www.synopsys.com/verification/static-and-formal-verification/vc-formal.html) and [JasperGold](https://www.cadence.com/en_US/home/tools/system-design-and-verification/formal-and-static-verification/jasper-gold-verification-platform.html). I am currently working on the following formal applications:
+  - Formal Property Verification (FPV)
+  - Formal Register Verification (FRV)
+  - DataPath Validation (DPV)
+  - Formal Coverage Analysis (FCA)
 
-<!--
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
--->
 ## Education
 - **PhD Computer Science**, [University of Missouri](https://missouri.edu/), USA
 - **MS Computer Science**, [Clarkson University](https://www.clarkson.edu/), USA
