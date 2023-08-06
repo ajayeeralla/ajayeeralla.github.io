@@ -12,7 +12,7 @@ I am working as a Senior Formal Verification Engineer at [AMD Inc](https://www.a
   - Formal Property Verification (FPV)
   - Formal Register Verification (FRV)
   - DataPath Validation (DPV)
-  - Formal Coverage Analysis (FCA)
+  - Assertion IP (AIP)
 
 ## Education
 - **PhD Computer Science**, [University of Missouri](https://missouri.edu/), USA
