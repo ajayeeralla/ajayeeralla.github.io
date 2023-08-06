@@ -26,6 +26,12 @@ I am working as a Senior Formal Verification Engineer at [AMD Inc](https://www.a
 
 ## Publications
 ### Peer-reviewed Journal Articles
+- **E-Brightpass: A Secure way to access social networks on smartphones**
+  <br>
+  With Chaitanyateja T et al.
+  <br>
+  In Cyber Security and Applications 2023.
+  <br>
 - **Mechanized Analysis of Vote Privacy Using Computationally Complete Symbolic Attacker**
   <br>
   Gergei Bana, Rohit Chadha, **Ajay Eeralla**
