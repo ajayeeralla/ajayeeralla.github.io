@@ -105,7 +105,13 @@ I am working as a Senior Formal Verification Engineer at [AMD Inc](https://www.a
   <br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 -->
+## Invited Lectures
+- Given an invited lecture on Theorem Proving for the class, ECE 382M, Verification of Digital Systems, in UT, Austin, USA
+## Reviewer
+### DAC (Design Automation Conference)
+- Served as a member of the Engineering Technical Program Committee in 60<sup>th</sup> DAC 2023 
+- Served as a member of the Engineering Technical Program Committee in 61<sup>th</sup> DAC 2024
+### CAV (Computer Aided Verification)
+- Served as a reviewer in CAV 2024.
 
-## Services
-- Conference Reviewers: 60<sup>th</sup> DAC 2023 (a member of Front-end Design Track Engineering Committee)
 
