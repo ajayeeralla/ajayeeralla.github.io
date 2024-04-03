@@ -107,6 +107,7 @@ I am working as a Senior Formal Verification Engineer at [AMD Inc](https://www.a
 -->
 ## Invited Lectures
 - Given an invited lecture on Theorem Proving for the class, ECE 382M, Verification of Digital Systems, in UT, Austin, USA
+
 ## Reviewer
 ### DAC (Design Automation Conference)
 - Served as a member of the Engineering Technical Program Committee in 60<sup>th</sup> DAC 2023 
